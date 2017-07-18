@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="game1" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Button id="clear" label="清空笔画" x="467" y="10" anchorOffsetX="0" width="160" anchorOffsetY="0" height="66"/>
+</e:Skin>
